@@ -1,0 +1,174 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    align-items: center;
+    color: white;
+    width: 100%;
+    height: 60px;
+    position: fixed;
+
+}
+
+.hamburgerbar {
+    font-size: 20px;
+}
+
+.navcola a {
+
+    font-size: 20px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+
+}
+
+.searchikonnav a {
+
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.generalheader {
+    background-image: url("./img/colaheader.jpg");
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+}
+
+.cardsetionust {
+    display: flex;
+
+}
+
+.generaldivsectioncard {
+
+    display: flex;
+}
+
+.upcard3 {
+    width: 100%;
+    display: flex;
+}
+
+.leftcard img {
+
+    display: flex;
+    width: 600px;
+    height: 715px;
+}
+
+.rightside img {
+    width: 880px;
+    height: 355px;
+}
+
+.downcard3 {
+    display: flex;
+    width: 100%;
+}
+
+.first img {
+    width: 500px;
+    height: 600px;
+}
+
+.second img {
+    width: 500px;
+    height: 600px;
+}
+
+.thirdly img {
+    display: flex;
+    width: 480px;
+    height: 600px;
+}
+
+.sonsection {
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.textsonsection {
+    display: flex;
+    gap: 40px;
+}
+
+.textsonsection a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.ikonsonsection {
+
+    padding-top: 40px;
+    font-size: 50px;
+    color: rgb(101, 98, 98);
+    display: flex;
+    gap: 70px;
+    padding-bottom: 50px;
+}
+
+.futergeneral {
+
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 30px;
+}
+
+.colafoter {
+    padding-top: 40px;
+}
+
+.mexfidiv {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.peler {
+    padding-top: 30px;
+    display: flex;
+    gap: 30px;
+    font-size: 14px;
+}
+
+.pebir {
+
+    display: flex;
+    justify-content: start;
+}
+
+.peiki {
+
+    display: flex;
+    justify-content: start;
+}
+
+.peuch {
+
+    padding-left: 800px;
+}
